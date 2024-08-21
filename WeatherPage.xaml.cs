@@ -22,7 +22,7 @@ public partial class weather_app : ContentPage
 
 		LblCity.Text = result.city.name;
 		LblWeatherDescription.Text = result.list[0].weather[0].description;
-		LblTemperature.Text = result.list[0].main.temperatute + "°C";
+		LblTemperature.Text = result.list[0].main.temperature + "°C";
 		LblHumidity.Text = "%" + result.list[0].main.humidity;
 		LblWind.Text = result.list[0].wind.speed + "km/h";
 		ImgWeatherIcon.Source = result.list[0].weather[0].customIcon;

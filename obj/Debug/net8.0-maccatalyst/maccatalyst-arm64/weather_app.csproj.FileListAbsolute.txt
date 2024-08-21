@@ -502,3 +502,4 @@
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/System.Xml.XPath.XDocument.stamp
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/WindowsBase.stamp
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/weather_app.sourcelink.json
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/UtcTimeLibrary.stamp

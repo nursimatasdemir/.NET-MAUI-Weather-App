@@ -18,6 +18,8 @@ public partial class weather_app : ContentPage
 		{
 			WeatherList.Add(item);
 		}
+		CvWeather.ItemsSource = WeatherList;
+
 		LblCity.Text = result.city.name;
 		LblWeatherDescription.Text = result.list[0].weather[0].description;
 		LblTemperature.Text = result.list[0].main.temperatute + "°C";

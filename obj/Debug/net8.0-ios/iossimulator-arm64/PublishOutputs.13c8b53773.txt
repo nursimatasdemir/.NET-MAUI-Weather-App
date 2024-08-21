@@ -50,6 +50,7 @@
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Microsoft.Maui.Essentials.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Microsoft.Maui.Graphics.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Newtonsoft.Json.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/UtcTimeLibrary.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../weather_app.app/Microsoft.VisualStudio.DesignTools.TapContract.dll

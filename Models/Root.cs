@@ -1,4 +1,6 @@
 using System;
+using Microsoft.VisualBasic;
+using UtcTimeLibrary;
 
 namespace weather_app.Models;
 
@@ -30,6 +32,7 @@ public class Coord
 public class List
 {
     public int dt { get; set; }
+    public string dateTime => UtcTimeStamp.ConvertToUtc(dt);
     public Main main { get; set; }
     public List<Weather> weather { get; set; }
     public Clouds clouds { get; set; }

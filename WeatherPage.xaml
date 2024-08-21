@@ -18,6 +18,10 @@
                                    TextColor="WhiteSmoke"
                                    FontSize="Default"
                                    FontFamily="Nunito"/>
+                            <Frame.GestureRecognizers>
+                                   <TapGestureRecognizer x:Name="TapLocation"
+                                                         Tapped="TapLocation_Tapped"/>
+                            </Frame.GestureRecognizers>
                      </Frame>
                      <ImageButton Source="searchweather.png"
                                   HeightRequest="10"

@@ -16,6 +16,17 @@ public partial class weather_app : ContentPage
 	{
 		base.OnAppearing();
 		await GetLocation();
+		await GetWeatherDataByLocation(latitude, longitude);
+	}
+
+	public async Task GetLocation()
+	{
+		var location = await Geolocation.Default.GetLocationAsync();
+		longitude = location.Longitude;
+		latitude = location.Latitude;
+	}
+	public async Task GetWeatherDataByLocation(double latitude, double longitude)
+	{
 		var result = await ApiService.GetWeather(latitude, longitude);
 		foreach (var item in result.list)
 		{
@@ -30,11 +41,11 @@ public partial class weather_app : ContentPage
 		LblWind.Text = result.list[0].wind.speed + "km/h";
 		ImgWeatherIcon.Source = result.list[0].weather[0].customIcon;
 	}
-
-	public async Task GetLocation()
+	private async void TapLocation_Tapped(object sender, EventArgs e)
 	{
-		var location = await Geolocation.Default.GetLocationAsync();
-		longitude = location.Longitude;
-		latitude = location.Latitude;
+		await GetLocation();
+		await GetWeatherDataByLocation(latitude, longitude);
 	}
+
+
 }

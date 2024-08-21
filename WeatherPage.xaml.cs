@@ -16,5 +16,6 @@ public partial class weather_app : ContentPage
 		LblTemperature.Text = result.list[0].main.temperatute + "°C";
 		LblHumidity.Text = "%" + result.list[0].main.humidity;
 		LblWind.Text = result.list[0].wind.speed + "km/h";
+		ImgWeatherIcon.Source = result.list[0].weather[0].customIcon;
 	}
 }

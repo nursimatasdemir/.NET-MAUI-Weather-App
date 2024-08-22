@@ -14,8 +14,8 @@ public class City
     public string country { get; set; }
     public int population { get; set; }
     public int timezone { get; set; }
-    public int sunrise { get; set; }
-    public int sunset { get; set; }
+    public double sunrise { get; set; }
+    public double sunset { get; set; }
 }
 
 public class Clouds
@@ -38,7 +38,7 @@ public class List
     public Clouds clouds { get; set; }
     public Wind wind { get; set; }
     public int visibility { get; set; }
-    public int pop { get; set; }
+    public double pop { get; set; }
     public Sys sys { get; set; }
     public string dt_txt { get; set; }
 }
@@ -50,10 +50,10 @@ public class Main
     public double feels_like { get; set; }
     public double temp_min { get; set; }
     public double temp_max { get; set; }
-    public int pressure { get; set; }
+    public double pressure { get; set; }
     public int sea_level { get; set; }
     public int grnd_level { get; set; }
-    public int humidity { get; set; }
+    public double humidity { get; set; }
     public double temp_kf { get; set; }
 }
 
@@ -84,6 +84,6 @@ public class Weather
 public class Wind
 {
     public double speed { get; set; }
-    public int deg { get; set; }
+    public double deg { get; set; }
     public double gust { get; set; }
 }

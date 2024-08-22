@@ -26,7 +26,8 @@
                      <ImageButton Source="searchweather.png"
                                   HeightRequest="10"
                                   WidthRequest="10"
-                                  HorizontalOptions="EndAndExpand"/>
+                                  HorizontalOptions="EndAndExpand"
+                                  Clicked="ImageButton_Clicked"/>
               </StackLayout>
               <StackLayout Grid.Row="1"
                            Orientation="Vertical">

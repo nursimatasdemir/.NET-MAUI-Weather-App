@@ -5,8 +5,7 @@ public partial class App : Application
 	public App()
 	{
 		InitializeComponent();
-
-		MainPage = new weather_app();
+		MainPage = new WelcomePage();
 	}
 }
 

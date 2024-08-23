@@ -16,7 +16,7 @@ public static class ApiService
     public static async Task<WeatherRoot> GetWeatherByCity(string city)
     {
         var httpClient = new HttpClient();
-        var response = await httpClient.GetStringAsync(string.Format("https://api.openweathermap.org/data/2.5/forecast?lat={0}&lon={1}&units=metric&appid=146ed57c1f86c07d4ba0bac95bf928ac", city));
+        var response = await httpClient.GetStringAsync(string.Format("https://api.openweathermap.org/data/2.5/forecast?q={0}&appid=146ed57c1f86c07d4ba0bac95bf928ac", city));
         return JsonConvert.DeserializeObject<WeatherRoot>(response);
 
     }

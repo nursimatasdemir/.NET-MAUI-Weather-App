@@ -39,3 +39,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = weather_app.WeatherPage.xaml
 build_metadata.AdditionalFiles.TargetPath = WeatherPage.xaml
 build_metadata.AdditionalFiles.RelativePath = WeatherPage.xaml
+
+[/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = weather_app.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = WelcomePage.xaml

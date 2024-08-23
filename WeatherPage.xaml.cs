@@ -2,13 +2,13 @@ using weather_app.Services;
 
 namespace weather_app;
 
-public partial class weather_app : ContentPage
+public partial class WeatherPage : ContentPage
 {
 	private double longitude;
 	private double latitude;
 	private double city;
 	public List<Models.List> WeatherList;
-	public weather_app()
+	public WeatherPage()
 	{
 		InitializeComponent();
 		WeatherList = new List<Models.List>();

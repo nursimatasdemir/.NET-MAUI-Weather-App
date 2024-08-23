@@ -52,10 +52,11 @@ public partial class WeatherPage : ContentPage
 	}
 	public void UpdateUI(dynamic result)
 	{
-		foreach (var item in result.list)
-		{
-			WeatherList.Add(item);
-		}
+		WeatherList.Clear();
+		// foreach (var item in result.list)
+		// {
+		// 	WeatherList.Add(item);
+		// }
 		CvWeather.ItemsSource = WeatherList;
 
 		LblCity.Text = result.city.name;

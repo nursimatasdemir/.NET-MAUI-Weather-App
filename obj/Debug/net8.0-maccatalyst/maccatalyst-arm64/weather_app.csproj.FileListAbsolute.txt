@@ -323,3 +323,9 @@
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/weather_app.pdb
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/weather_app.genruntimeconfig.cache
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/weather_app.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Maui.Controls.HotReload.Forms.stamp
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.MobileTapContracts.stamp
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.VisualStudio.DesignTools.TapContract.stamp

@@ -51,6 +51,9 @@
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Newtonsoft.Json.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/UtcTimeLibrary.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/weather_app.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/nursimatasdemir/Documents/dotnet/Weather_App/weather_app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../weather_app.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll

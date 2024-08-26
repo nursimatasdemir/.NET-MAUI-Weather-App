@@ -106,7 +106,7 @@
                                                  HorizontalOptions="Center"
                                                  HeightRequest="50"
                                                  WidthRequest="50"
-                                                 Source="{Binding WeatherList}"/>
+                                                 Source="{Binding weather[0].customIcon}"/>
                                           <Label Grid.Row="1"
                                                  FontSize="Large"
                                                  HorizontalOptions="Center"
